@@ -1,7 +1,0 @@
-quarkus:
-  rest-client:
-    yandex-weather:
-      uri: https://api.weather.yandex.ru/v2
-
-yandex:
-  key: e7c4ccfc-265c-4bd1-a620-cb57109d71ba
